@@ -1,4 +1,4 @@
-lea# Introduction To Simple Array Manipulations - Part 2
+# Introduction To Simple Array Manipulations - Part 2
 
 ## Learning Goals
 
